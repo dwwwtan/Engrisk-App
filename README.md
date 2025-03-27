@@ -1,2 +1,2 @@
 # Engrisk-App
-A learning English App with Java and Kotlin.
+An English learning App with Java and Kotlin.
